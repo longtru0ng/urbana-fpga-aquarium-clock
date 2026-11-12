@@ -17,7 +17,7 @@ for tick in range(4800):
         if tick % stride != i % stride:
             continue
         halfw = 28 if i < 3 else 16
-        left, right = halfw, WIDTH-halfw
+        left, right = halfw, (266 if i == 7 else WIDTH-halfw)
         if facing[i] and x[i] >= right-1:
             facing[i] = False
             pauses[i] = 12+i
