@@ -5,7 +5,7 @@ A colorful **pixel-art aquarium clock** built in **Verilog** for the **RealDigit
 > **Project version:** V10.5 — natural swimming + performance-oriented partial redraws  
 > **Build status:** Source checks and a Python motion model have been run. **Vivado implementation/timing and real-hardware testing of V10.5 are not yet verified.**
 
-![Pixel-art aquarium scene mockup](assets/previews/screen_sprite_preview_2x.png)
+![Pixel-art aquarium scene mockup](assets/previews/screen_sprite_preview.svg)
 
 *Static artwork preview from V10.4; not a screenshot of V10.5 running on the TFT.*
 
